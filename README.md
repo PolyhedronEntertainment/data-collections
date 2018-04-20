@@ -3,4 +3,4 @@ data collecitons
 
 
 ###
-openslr speech dataset(@href='http://www.openslr.org/resources.php')
+[openslr speech dataset](http://www.openslr.org/resources.php)
